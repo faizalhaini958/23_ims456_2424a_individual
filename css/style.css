@@ -1,0 +1,19 @@
+h1
+    {
+        color:palevioletred;
+        font-family: tahoma;
+    }
+
+body    
+    {
+        background-color:goldenrod;
+    }
+
+a
+    {
+        text-decoration: none;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 14pt;
+        color: darkred;
+        padding-right:100px ;
+    }
