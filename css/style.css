@@ -17,3 +17,50 @@ a
         color: darkred;
         padding-right:100px ;
     }
+
+.header
+    {
+        width: 100%;
+        background-color:dodgerblue;
+        float: right;
+        height: 30px;
+    }
+
+.slider
+    {
+        width: 100%;
+        background-color: aqua;
+        float: right;
+    }
+
+.box1
+    {
+        width: 25%;
+        background-color: cornflowerblue;
+        padding-bottom: 300px;
+        float: right;
+    }
+
+.box2
+    {
+        width: 25%;
+        background-color:darkorchid;
+        padding-bottom: 300px;
+        float: right;
+    }
+
+.box3
+    {
+        width: 25%;
+        background-color: cornflowerblue;
+        padding-bottom: 300px;
+        float: right;
+    }
+
+.box4
+    {
+        width: 25%;
+        background-color:darkorchid;
+        padding-bottom: 300px;
+        float: right;
+    }
